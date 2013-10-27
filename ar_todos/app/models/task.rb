@@ -1,2 +1,3 @@
-class Task < ActiveRecord::Base
+class ToDoList < ActiveRecord::Base  
+
 end
